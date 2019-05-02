@@ -1,3 +1,5 @@
+
+
 body {
   font-size: 12pt;
   font-family: Times, "Times New Roman", serif;
@@ -57,7 +59,7 @@ h2 {
 #elixirs img {
   padding-top: 20px;
 }
-	
+    
 #elixirs p {
   line-height: 1em;
 }
@@ -79,4 +81,3 @@ h2 {
 
 body p a:link { color: #007e7e; }
 body p a:visited { color: #333333; }
-
